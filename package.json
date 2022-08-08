@@ -1,0 +1,11 @@
+{
+  "name": "json-sizer",
+  "version": "1.0.2",
+  "description": "Simple way to divide a large json into multiple files based on size",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Silvano Hirtie <hirtie.silvano@gmail.com>",
+  "license": "ISC"
+}
