@@ -1,6 +1,7 @@
 # Json Sizer
 
 A simple way to split a large JSON file into multiple files based on limit size
+[NPM Module](https://www.npmjs.com/package/json-sizer)
 
 ## Algorithm Explanation
 
